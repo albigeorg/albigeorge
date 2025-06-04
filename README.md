@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin George</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **django,flutter**
+- 🌱 I’m currently learning **,Pythondjango,**
 
 - 💬 Ask me about **php,mysql,python**
 
